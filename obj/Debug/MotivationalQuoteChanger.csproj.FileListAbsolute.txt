@@ -1,0 +1,10 @@
+C:\Users\akila\Desktop\C#\Dizzpy\MotivationalQuoteChanger\MotivationalQuoteChanger\bin\Debug\MotivationalQuoteChanger.exe.config
+C:\Users\akila\Desktop\C#\Dizzpy\MotivationalQuoteChanger\MotivationalQuoteChanger\bin\Debug\MotivationalQuoteChanger.exe
+C:\Users\akila\Desktop\C#\Dizzpy\MotivationalQuoteChanger\MotivationalQuoteChanger\bin\Debug\MotivationalQuoteChanger.pdb
+C:\Users\akila\Desktop\C#\Dizzpy\MotivationalQuoteChanger\MotivationalQuoteChanger\obj\Debug\MotivationalQuoteChanger.csproj.AssemblyReference.cache
+C:\Users\akila\Desktop\C#\Dizzpy\MotivationalQuoteChanger\MotivationalQuoteChanger\obj\Debug\MotivationalQuoteChanger.Form1.resources
+C:\Users\akila\Desktop\C#\Dizzpy\MotivationalQuoteChanger\MotivationalQuoteChanger\obj\Debug\MotivationalQuoteChanger.Properties.Resources.resources
+C:\Users\akila\Desktop\C#\Dizzpy\MotivationalQuoteChanger\MotivationalQuoteChanger\obj\Debug\MotivationalQuoteChanger.csproj.GenerateResource.cache
+C:\Users\akila\Desktop\C#\Dizzpy\MotivationalQuoteChanger\MotivationalQuoteChanger\obj\Debug\MotivationalQuoteChanger.csproj.CoreCompileInputs.cache
+C:\Users\akila\Desktop\C#\Dizzpy\MotivationalQuoteChanger\MotivationalQuoteChanger\obj\Debug\MotivationalQuoteChanger.exe
+C:\Users\akila\Desktop\C#\Dizzpy\MotivationalQuoteChanger\MotivationalQuoteChanger\obj\Debug\MotivationalQuoteChanger.pdb
